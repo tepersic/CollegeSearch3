@@ -1,2 +1,0 @@
-# CollegeSearch3
-CollegeSearch
